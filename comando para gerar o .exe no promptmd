@@ -1,0 +1,3 @@
+comando para gerar o .exe pelo prompt para programa feito em python
+
+pyinstaller --noconfirm --onefile --windowed --icon="gerenciador.ico" "gerenciador_scrcpy.py"
